@@ -1,52 +1,53 @@
 [
-   {
-       "id": 1,
-       "cover": "https://example.com/book1.jpg",
-       "title": "The Adventure Begins",
-       "author": "John Authorson",
-       "img": "https://newurl1.com/author.jpg",  
-       "posted_date": "2023-09-13",
-       "reading_time": "2 hours",
-       "hash_tag": ["adventure", "fiction"]
-   },
-   {
-       "id": 2,
-       "cover": "https://example.com/book2.jpg",
-       "title": "Mystery Mansion",
-       "author": "Jane Authoress",
-       "img": "https://newurl2.com/author.jpg",  
-       "posted_date": "2023-09-14",
-       "reading_time": "3 hours",
-       "hash_tag": ["mystery", "thriller"]
-   },
-   {
-       "id": 3,
-       "cover": "https://example.com/book3.jpg",
-       "title": "Cooking Delights",
-       "author": "Chef Cookington",
-       "img": "https://newurl3.com/author.jpg",  
-       "posted_date": "2023-09-15",
-       "reading_time": "1 hour",
-       "hash_tag": ["cooking", "recipes"]
-   },
-   {
-       "id": 4,
-       "cover": "https://example.com/book4.jpg",
-       "title": "Historical Journeys",
-       "author": "Historian Smith",
-       "img": "https://newurl4.com/author.jpg",  
-       "posted_date": "2023-09-16",
-       "reading_time": "4 hours",
-       "hash_tag": ["history", "nonfiction"]
-   },
-   {
-       "id": 5,
-       "cover": "https://example.com/book5.jpg",
-       "title": "Science Explained",
-       "author": "Dr. Sciencey",
-       "img": "https://newurl5.com/author.jpg", 
-       "posted_date": "2023-09-17",
-       "reading_time": "2.5 hours",
-       "hash_tag": ["science", "education"]
-   }
-]
+    {
+        "id": 1,
+         "cover":"https://i.ibb.co/WKQydz4/2.png",
+        "title": "The Adventure Begins",
+        "author": "John Authorson",
+        "img": "https://i.ibb.co/LSsDJ8w/girl2.jpg",  
+        "posted_date": "13 September 2023",  
+        "reading_time": 2,
+        "hash_tag": ["adventure", "fiction"]
+    },
+    {
+        "id": 2,
+         "cover":"https://i.ibb.co/WKQydz4/2.png",
+        "title": "Mystery Mansion",
+        "author": "Jane Authoress",
+        "img": "https://i.ibb.co/LSsDJ8w/girl2.jpg",  
+        "posted_date": "14 September 2023",  
+        "reading_time": 3,
+        "hash_tag": ["mystery", "thriller"]
+    },
+    {
+        "id": 3,
+         "cover":"https://i.ibb.co/WKQydz4/2.png",
+        "title": "Cooking Delights",
+        "author": "Chef Cookington",
+        "img": "https://i.ibb.co/LSsDJ8w/girl2.jpg",  
+        "posted_date": "15 September 2023",  
+        "reading_time": 1,
+        "hash_tag": ["cooking", "recipes"]
+    },
+    {
+        "id": 4,
+         "cover":"https://i.ibb.co/WKQydz4/2.png",
+        "title": "Historical Journeys",
+        "author": "Historian Smith",
+        "img": "https://i.ibb.co/LSsDJ8w/girl2.jpg",  
+        "posted_date": "16 September 2023",  
+        "reading_time": 4,
+        "hash_tag": ["history", "nonfiction"]
+    },
+    {
+        "id": 5,
+         "cover":"https://i.ibb.co/WKQydz4/2.png",
+        "title": "Science Explained",
+        "author": "Dr. Sciencey",
+        "img": "https://i.ibb.co/LSsDJ8w/girl2.jpg", 
+        "posted_date": "17 September 2023",
+        "reading_time": 2,
+        "hash_tag": ["science", "education"]
+    }
+ ]
+ 
